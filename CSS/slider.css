@@ -1,0 +1,26 @@
+section {
+	width: 80%;
+	margin: 0 auto;
+	background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(246,246,246,1) 47%,rgba(237,237,237,1) 100%);
+	box-shadow: 10px 10px 26px -12px rgba(0,0,0,0.75);
+	padding: 2rem;
+}
+h1,form,a {
+	display: block;
+	text-align: center;
+}
+a {
+	margin: 0 auto;
+}
+img {
+	padding: 1rem;
+	display: block;
+	margin: 0 auto;
+	box-shadow: 10px 10px 26px -12px rgba(0,0,0,0.75);
+}
+#title {
+	text-align: center;
+}
+.desactive-img {
+	display: none;
+}
